@@ -1,0 +1,15 @@
+Freelancer Ivan 10
+Monthly-paid John 800
+Freelancer Bill 25
+Monthly-paid Sergey 1500
+Monthly-paid Bond 1200
+Monthly-paid Kell 1000
+Freelancer Vladislav 50
+Freelancer Andrew 50
+Monthly-paid Anton 1000
+Freelancer Illia 30
+Freelancer Vince 50
+Monthly-paid Kali 1000
+Monthly-paid Alex 900
+Freelancer Martin 8
+Freelancer Kate 8
