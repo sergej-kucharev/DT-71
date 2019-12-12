@@ -11,9 +11,9 @@ public class Task4 {
     {
         System.out.println("TASK4");
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Try to guess the integer in [0; 100] interval: ");
         try {
             while (true) {
-                System.out.println("Try to guess the integer in [0; 100] interval: ");
                 int attempt = scanner.nextInt();
                 if(attempt == number)
                 {

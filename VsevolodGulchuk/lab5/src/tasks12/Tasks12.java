@@ -178,7 +178,9 @@ public class Tasks12 {
         }
         System.out.println(outString);
         try {
-            File file = new File("task1otput.txt");
+            String curDir = System.getProperty("user.dir");
+            String fileName = curDir + "/src/tasks12/files/task2Output.txt";
+            File file = new File(fileName);
             PrintWriter output = new PrintWriter(file);
             output.println(outString);
             output.close();
