@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="080a139a-046d-4706-9a6b-73646a2264f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UegwW8MBAsAOCrv8vUwTNWKAfU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../D&amp;T" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DT" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.dt.DT" />
+      <module name="D&amp;T" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.dt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="080a139a-046d-4706-9a6b-73646a2264f7" name="Default Changelist" comment="" />
+      <created>1575722713048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575722713048</updated>
+      <workItem from="1575722718789" duration="9671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576340539767">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1576340539767" />
+    <state x="651" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576340334701">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="651" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1576340334701" />
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1576340596843">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1576340596843" />
+    <state width="1557" height="206" key="GridCell.Tab.0.bottom" timestamp="1575880747009">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1575880747009" />
+    <state width="1557" height="206" key="GridCell.Tab.0.center" timestamp="1575880747008">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="206" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1575880747008" />
+    <state width="1557" height="206" key="GridCell.Tab.0.left" timestamp="1575880747008">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="206" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1575880747008" />
+    <state width="1557" height="206" key="GridCell.Tab.0.right" timestamp="1575880747008">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="206" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1575880747008" />
+    <state x="182" y="50" key="new project wizard" timestamp="1576340487574">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1576340487574" />
+    <state x="456" y="197" key="run.anything.popup" timestamp="1575722871284">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="197" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1575722871284" />
+  </component>
+</project>

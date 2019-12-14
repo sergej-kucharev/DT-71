@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d795715-e1fa-447e-9d93-373201cbed05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uk0f0aAUalKHv5oniDwsK1a0LA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="z1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ex.pop.z1" />
+      <module name="poputka573157o35" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ex.pop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.z1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d795715-e1fa-447e-9d93-373201cbed05" name="Default Changelist" comment="" />
+      <created>1575885386055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575885386055</updated>
+      <workItem from="1575885396405" duration="5233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1575885763838">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1575885763838" />
+    <state width="1340" height="206" key="GridCell.Tab.0.bottom" timestamp="1575890650842">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1575890650842" />
+    <state width="1340" height="206" key="GridCell.Tab.0.center" timestamp="1575890650842">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1575890650842" />
+    <state width="1340" height="206" key="GridCell.Tab.0.left" timestamp="1575890650842">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1575890650842" />
+    <state width="1340" height="206" key="GridCell.Tab.0.right" timestamp="1575890650842">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1575890650842" />
+    <state x="303" y="75" key="SettingsEditor" timestamp="1575888891044">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="303" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1575888891044" />
+    <state x="507" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1575885396474">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1575885396474" />
+    <state x="182" y="56" key="new project wizard" timestamp="1575890204537">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="56" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1575890204537" />
+  </component>
+</project>
