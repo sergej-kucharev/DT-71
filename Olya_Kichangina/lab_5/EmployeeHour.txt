@@ -1,0 +1,20 @@
+Employee
+id: 101
+Name: Anna
+Salary: 100
+Employee
+id: 102
+Name: Kolyan
+Salary: 56
+Employee
+id: 103
+Name: Andrey
+Salary: 87
+Employee
+id: 104
+Name: David
+Salary: 69
+Employee
+id: 105
+Name: Scott
+Salary: 95
