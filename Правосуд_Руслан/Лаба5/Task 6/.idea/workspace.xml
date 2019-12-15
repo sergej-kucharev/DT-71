@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
     <list default="true" id="c9a4f375-0363-4258-8fcb-835fa2e1f572" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task6.java" afterDir="false" />
     </list>
+
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,22 +19,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Task6.java">
           <provider selected="true" editor-type-id="text-editor">
+
             <state relative-caret-position="277">
               <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
+
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Task6.java" />
+
       </list>
     </option>
   </component>
@@ -42,7 +49,9 @@
     <option name="width" value="938" />
     <option name="height" value="765" />
   </component>
+
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -65,7 +74,9 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+
       <pane id="PackagesPane" />
+
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -73,6 +84,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575626884753" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,11 +125,14 @@
       <option name="presentableId" value="Default" />
       <updated>1575625734342</updated>
       <workItem from="1575625737207" duration="1282000" />
+
       <workItem from="1576332651335" duration="220000" />
+
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+
     <option name="totallyTimeSpent" value="1513000" />
   </component>
   <component name="ToolWindowManager">
@@ -134,10 +149,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328594" />
+
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
@@ -163,8 +180,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Task6.java">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="277">
           <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+
         </state>
       </provider>
     </entry>

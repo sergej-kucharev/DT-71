@@ -7,6 +7,7 @@ public class Task6 {
         String str = scanner.nextLine();
         int n = str.length();
         char[] arr = str.toCharArray();
+
         char temp;
         for (int i = 0; i <= (arr.length - 1) / 2; i++) {
             temp = arr[i];

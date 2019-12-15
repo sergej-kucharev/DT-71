@@ -1,0 +1,6 @@
+Sam Madison 999 40.0
+Thomas Brown 674 40.0
+Liza Smith 789 78.0
+Tom Anderson 897 78.0
+Alexa Good 784 91.0
+Bob Smith 315 80.0
