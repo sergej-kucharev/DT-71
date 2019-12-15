@@ -1,0 +1,6 @@
+w 3 Abraham 120,000000
+s 2 George 15945,000000
+w 5 William 92,000000
+s 1 Barack 14234,000000
+s 4 John 12726,000000
+w 6 Donald 72,000000

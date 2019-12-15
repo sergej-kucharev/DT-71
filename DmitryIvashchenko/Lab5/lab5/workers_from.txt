@@ -1,0 +1,5 @@
+w 3 Victor 120,000000
+s 2 Leonid 15945,000000
+w 5 Volodymyr 92,000000
+s 1 Petro 14234,000000
+w 4 Alex 12726,000000
