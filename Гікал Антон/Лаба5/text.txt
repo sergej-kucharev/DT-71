@@ -1,0 +1,1 @@
+peripherals are commonly divided into three kinds: input devices, output devices, and storage devices. An input device converts incoming data and instructions into a pattern of electrical signals in binary code that are comprehensible to a digital computer. An output device reverses the process, translating the digitized signals into a form intelligible to the user. 
