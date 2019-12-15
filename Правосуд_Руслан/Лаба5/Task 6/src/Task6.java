@@ -7,8 +7,14 @@ public class Task6 {
         String str = scanner.nextLine();
         int n = str.length();
         char[] arr = str.toCharArray();
-        for (int i = n - 1; i >= 0; i--) {
-            System.out.print(arr[i]);
+
+        char temp;
+        for (int i = 0; i <= (arr.length - 1) / 2; i++) {
+            temp = arr[i];
+            arr[i] = arr[arr.length - i -1];
+            arr[arr.length - i -1] = temp;
         }
+        str = new String(arr);
+        System.out.printf(str);
     }
 }
