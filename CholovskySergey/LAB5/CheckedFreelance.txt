@@ -1,0 +1,3 @@
+id	name	wage
+1	marx	100
+-1	max	100
