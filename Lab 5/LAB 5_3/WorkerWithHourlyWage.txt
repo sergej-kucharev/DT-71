@@ -1,0 +1,24 @@
+Worker
+ID: 1
+Name: Lizzie
+Salary: 5
+Worker
+ID: 2
+Name: Jane
+Salary: 4
+Worker
+ID: 3
+Name: Antony
+Salary: 5.4
+Worker
+ID: 4
+Name: Mary
+Salary: 5
+Worker
+ID: 5
+Name: Alex
+Salary: 2
+Worker
+ID: 6
+Name: Engenii
+Salary: 15
