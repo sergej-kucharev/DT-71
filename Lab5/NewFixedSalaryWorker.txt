@@ -1,0 +1,6 @@
+Alisa Young 487 1111.5
+Angela Anderson 167 1453.0
+Steven Smith 794 1983.2
+Victoria Smith 985 2147.0
+Tom King 897 4200.0
+Tom Smith 348 3000.0
