@@ -1,0 +1,28 @@
+Worker
+ID: 1
+Name: Sam
+Salary: 1001.2
+Worker
+ID: 2
+Name: Edward
+Salary: 550
+Worker
+ID: 3
+Name: John
+Salary: 2299.99
+Worker
+ID: 4
+Name: Melani
+Salary: 251
+Worker
+ID: 5
+Name: Donald
+Salary: 550
+Worker
+ID: 6
+Name: Mickey
+Salary: 2500.01
+Worker
+ID: 7
+Name: Minnie
+Salary: 0
