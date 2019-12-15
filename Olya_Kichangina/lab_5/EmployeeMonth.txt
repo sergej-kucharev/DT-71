@@ -1,0 +1,20 @@
+Employee
+id: 1001
+Name: Olya
+Salary: 6700
+Employee
+id: 1002
+Name: Ed
+Salary: 10000
+Employee
+id: 1003
+Name: Vova
+Salary: 34000
+Employee
+id: 1004
+Name: Sveta
+Salary: 5800
+Employee
+id: 1005
+Name: Pasha
+Salary: 7850
