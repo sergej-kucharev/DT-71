@@ -1,0 +1,26 @@
+
+Name: Person_6 
+ID: 6 
+Salary per hour: 55000.0  
+Total salary: 9152000.0
+Name: Person_2 
+ID: 2 
+Salary per hour: 60000.0 
+Total salary: 9984000‬.0
+Name: Person_0 
+ID: 0 
+Salary per hour: 50000.0 
+Total salary: 8320000.0
+Name: Person_4 
+ID: 4 
+Total salary: 34567.0
+Name: Person_1 
+ID: 1 
+Salary per hour: 200.0 
+Total salary: 33280.0
+Name: Person_5 
+ID: 5 
+Total salary: 5777.0
+Name: Person_3 
+ID: 3 
+Total salary: 4000.0
